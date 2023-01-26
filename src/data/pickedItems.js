@@ -12,7 +12,7 @@ const items = [
     "description": "Pan-fried chicken dumplings.",
     "img": menuItemImg2,
     "special": true,
-    "tags": ["vegetarian", "organic"],
+    "tags": ["vegetarian", "organic"], 
     "price": 4.30
 },
 {
